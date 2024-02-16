@@ -1,5 +1,4 @@
 #Random Number Guessing Game
-#James Klick
 #Version 1.0 - 2/16/2024
 #This program will generate a random number. It will then allow the user to guess the number, telling them high or low until the guess correctly.
 
